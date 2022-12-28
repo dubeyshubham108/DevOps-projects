@@ -11,4 +11,5 @@ Here, We will setup a complete Web-Application running on AWS cloud.
 3. Automating our entire setup by using IAAC.
 
 ## About the Project.
-Our Web Application contains many services such 
+
+<img  align="center" alt="Multi-Tier Web Application setup on AWS Cloud" width="100%" height="100%" src="https://github.com/dubeyshubham108/DevOps-projects/blob/main/Project%201/image01.png">
